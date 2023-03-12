@@ -12017,7 +12017,7 @@
                 "Made with \u2764\ufe0f by",
                 " ",
                 (0, Ye.jsx)("a", {
-                  href: "https://instagram.com/ranqkuty",
+                  href: "https://instagram.com/dwikodanyy_19",
                   children: "Dwiko Dany Rananta",
                 }),
               ],
